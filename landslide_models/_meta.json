@@ -1,0 +1,7 @@
+{
+  "project": "landslide",
+  "crafts": [
+    "landslide_terrain_deformation_v1"
+  ],
+  "version": "0.2.1"
+}
